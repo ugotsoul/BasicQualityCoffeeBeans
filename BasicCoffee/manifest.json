@@ -1,0 +1,10 @@
+﻿{
+  "Name": "BasicCoffee",
+  "Author": "ugotsoul",
+  "Version": "1.0.0",
+  "Description": "All harvested coffee becomes basic quality.",
+  "UniqueID": "ugotsoul.BasicCoffee",
+  "EntryDll": "BasicCoffee.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

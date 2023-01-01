@@ -1,0 +1,5 @@
+/Users/keroppi/projects/BasicCoffee/BasicCoffee/bin/Debug/BasicCoffee.dll
+/Users/keroppi/projects/BasicCoffee/BasicCoffee/bin/Debug/BasicCoffee.pdb
+/Users/keroppi/projects/BasicCoffee/BasicCoffee/obj/Debug/BasicCoffee.csproj.CoreCompileInputs.cache
+/Users/keroppi/projects/BasicCoffee/BasicCoffee/obj/Debug/BasicCoffee.dll
+/Users/keroppi/projects/BasicCoffee/BasicCoffee/obj/Debug/BasicCoffee.pdb
