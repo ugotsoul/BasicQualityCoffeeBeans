@@ -5,6 +5,7 @@
 
 # System Files - Mac
 .DS_Store
+**/.vs/**
 
 # User-specific files
 *.rsuser
