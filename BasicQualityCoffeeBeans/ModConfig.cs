@@ -1,6 +1,6 @@
 ﻿using StardewModdingAPI.Utilities;
 
-namespace BasicCoffee
+namespace BasicQualityCoffeeBeans
 {
     internal class ModConfig
     {

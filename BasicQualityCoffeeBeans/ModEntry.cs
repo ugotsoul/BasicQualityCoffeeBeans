@@ -5,7 +5,7 @@ using StardewModdingAPI.Events;
 using StardewModdingAPI.Utilities;
 using StardewValley;
 
-namespace BasicCoffee
+namespace BasicQualityCoffeeBeans
 {
     /// <summary>The mod entry point.</summary>
     internal sealed class ModEntry : Mod
@@ -41,14 +41,11 @@ namespace BasicCoffee
         {
             foreach (Item item in e.Added)
             {
-                if (item.ParentSheetIndex == 433)
+                if (item.ParentSheetIndex == 433 && (item as StardewValley.Object).Quality > 0)
                 {
                     this.Monitor.Log($"Picked up {item.DisplayName} item with quality of {(item as StardewValley.Object).quality}", LogLevel.Debug);
 
-                    if ((item as StardewValley.Object).Quality > 0) {
-                        (item as StardewValley.Object).Quality = 0;
-                    }
-
+                    (item as StardewValley.Object).Quality = 0;
                 }
             }
         }

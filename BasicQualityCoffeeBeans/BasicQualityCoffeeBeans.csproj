@@ -5,8 +5,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{687A2699-EEAD-4587-A245-BF8C173DEA47}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>BasicCoffee</RootNamespace>
-    <AssemblyName>BasicCoffee</AssemblyName>
+    <RootNamespace>BasicQualityCoffeeBeans</RootNamespace>
+    <AssemblyName>BasicQualityCoffeeBeans</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

@@ -1,0 +1,10 @@
+﻿{
+  "Name": "BasicQualityCoffeeBeans",
+  "Author": "ugotsoul",
+  "Version": "1.0.0",
+  "Description": "All harvested coffee becomes basic quality, and convert beans in storage to basic quality.",
+  "UniqueID": "ugotsoul.BasicQualityCoffeeBeans",
+  "EntryDll": "BasicQualityCoffeeBeans.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
